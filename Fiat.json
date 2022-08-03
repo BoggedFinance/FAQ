@@ -1,0 +1,52 @@
+{
+  "fiat":[
+    {
+      "question": "How do I buy crypto with fiat on Bogged?",
+      "answer": "Buying DeFi crypto with fiat is as simple as any other online transaction thanks to our partners at Ramp. Read more in our Academy article here.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "Do I need to complete KYC/Verification to buy crypto?",
+      "answer": "Some nationalities and payment methods, may require a short identity verification. This is to comply with national law, increase security and prevent fraud.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "What chains can I buy crypto on?",
+      "answer": "You can buy the native tokens of BNB Chain, Polygon and Avalanche. If you need any other tokens, or need funds on another chain, consider buying on the above, then using our Bridge and/or Swap to get the tokens you need.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "Who do I contact for support?",
+      "answer": "Fiat purchases are run by our partners at Ramp, meaning that they are responsible for any issues with your transaction. They have dedicated support available, which you can find here.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    }
+  ]
+}
