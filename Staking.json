@@ -1,0 +1,64 @@
+{
+  "staking":[
+    {
+      "question": "What is staking on the Bogged platform?",
+      "answer": "Staking is a way of getting rewarded by locking away the Bogged governance token (BOG) in exchange for rewards, including a share of platform revenue.",
+      "secondAnswer":"",
+      "more": {
+        "text":"For more information about the BOG token, "
+        "link":{
+          "href":"https://www.bogged.finance/token",
+          "linkText": "click here"
+         }
+      }
+    },
+    {
+      "question": "What is solo staking?",
+      "answer": "Solo staking is the simplest way of getting started with staking on Bogged. Simply deposit any BOG you wish to stake and begin earning rewards!",
+      "secondAnswer":"",
+      "more": {
+        "text":"Read more about solo staking in our docs.",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "What is LP staking?",
+      "answer": "LP staking helps support the ecosystem by providing liquidity for its governance token. By combining BOG and a base token (varies by chain), LP tokens are created, which when staked yield a higher share of rewards.",
+      "secondAnswer":"",
+      "more": {
+        "text":"Read more about LP staking in our docs.",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "What are the staking rewards?",
+      "answer": "Stakers earn a share of platform revenue, derived from the profit from tools such as limit orders and stop-losses. A share of the trading fees of BOG is also shared among stakers, and they can avail of access to advanced trading tools such as trailing stop-losses.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "What is the APR for staking?",
+      "answer": "As staking varies depending on the Bogged platform's product usage, the APR is variable. A rolling average of past performance is displayed on the staking page to help stakers get an estimate of performance.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    }
+  ]
+}
