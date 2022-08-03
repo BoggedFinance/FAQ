@@ -1,0 +1,64 @@
+{
+  "swap":[
+    {
+      "question": "What is Bogged DEX Aggregator?",
+      "answer": "Bogged DEX Aggregator is a swap interface that provides users with the cheapest possible trade. This is possible thanks to advanced routing technology that utilises almost every decentralised exchange on Bogged's supported chains, which always finds the cheapest and fastest path for your swap.",
+      "secondAnswer":"Our aggregator also includes many other advanced features, all aimed at making DeFi trading as smooth as possible.",
+      "more": {
+        "text":"For more, see: ",
+        "link":{
+          "href":"https://www.bogged.finance/solutions/dex-aggregator",
+          "linkText": "Academy / Docs"
+         }
+      }
+    },
+    {
+      "question": "Does Bogged DEX Aggregator cost anything?",
+      "answer": "No. Bogged DEX Aggregator is completely free. Keep in mind that standard network charges (gas) will still apply.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"/",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "What is AutoTax?",
+      "answer": "Frequently, DeFi tokens include a “tax”, which is a percentage of the trade value that goes towards things like staking rewards and project treasuries. This tax can sometimes cause problems for traders as it can put trades outside of their desired slippage, causing the transaction to fail.",
+      "secondAnswer":"AutoTax takes care of this by automatically adding token tax to a trade's slippage (up to a specified limit which is configurable in the settings)",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "How do I make my transaction go through quicker?",
+      "answer": "The easiest way of improving transaction speed is by increasing the GWEI, which can be done by clicking on the gas pump symbol on the top right. Keep in mind that a higher GWEI can mean higher network fees.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "Why hasn't my swap gone through?",
+      "answer": "Although swapping on Bogged is incredibly reliable, sometimes external network factors outside of the platform's control can cause issues for traders. If you encounter any issues and are unsure why, please snap a screenshot of any error messages and let us know using the chat bubble on this page, or via Telegram.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    }
+  ]
+}
