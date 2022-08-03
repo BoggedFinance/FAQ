@@ -2,13 +2,13 @@
   "fiat":[
     {
       "question": "How do I buy crypto with fiat on Bogged?",
-      "answer": "Buying DeFi crypto with fiat is as simple as any other online transaction thanks to our partners at Ramp. Read more in our Academy article here.",
+      "answer": "Buying DeFi crypto with fiat is as simple as any other online transaction thanks to our partners at Ramp.",
       "secondAnswer":"",
       "more": {
-        "text":"",
+        "text":"Read more in our Academy article ",
         "link":{
-          "href":"",
-          "linkText": ""
+          "href":"https://www.bogged.finance/academy/how-to-buy-defi-crypto-tokens-with-credit-card",
+          "linkText": "here"
          }
       }
     },
