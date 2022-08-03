@@ -27,7 +27,7 @@
     {
       "question": "How do Bogged DeFi stop-losses work?",
       "answer": "When you approve and set a Bogged stop-loss, our systems immediately begin monitoring the price of the token you want to sell. No funds leave your wallet until the target price is reached, which is when Bogged executes the trade from within your wallet.",
-      "secondAnswer":"Bogged stop-losses work with every token listed on our many supported DEXes and chains."
+      "secondAnswer":"Bogged stop-losses work with every token listed on our many supported DEXes and chains.",
       "more": {
         "text":"For more information,",
         "link":{
