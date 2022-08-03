@@ -1,0 +1,64 @@
+{
+  "stop":[
+    {
+      "question": "What is a stop-loss?",
+      "answer": "A stop-loss is a trading tool designed to help prevent losses or automatically exit positions. ",
+      "secondAnswer":"",
+      "more": {
+        "text":"For more about stop-losses on Bogged, including examples,",
+        "link":{
+          "href":"/",
+          "linkText": "see Docs / Academy"
+         }
+      }
+    },
+    {
+      "question": "What is a trailing stop-loss?",
+      "answer": "A trailing stop-loss is a stop-loss which includes a dynamic trigger point that follows an upwards price trend. This can lock in more profits than a standard stop-loss.",
+      "secondAnswer":"",
+      "more": {
+        "text":"For more information, ",
+        "link":{
+          "href":"https://www.bogged.finance/academy/bogged-finance-provides-a-variety-of-order-types-that",
+          "linkText": "check out our Academy article."
+         }
+      }
+    },
+    {
+      "question": "How do Bogged DeFi stop-losses work?",
+      "answer": "When you approve and set a Bogged stop-loss, our systems immediately begin monitoring the price of the token you want to sell. No funds leave your wallet until the target price is reached, which is when Bogged executes the trade from within your wallet.",
+      "secondAnswer":"Bogged stop-losses work with every token listed on our many supported DEXes and chains."
+      "more": {
+        "text":"For more information,",
+        "link":{
+          "href":"/",
+          "linkText": "see our Academy article and docs"
+         }
+      }
+    },
+    {
+      "question": "Are Bogged stop-losses safe?",
+      "answer": "With one of the highest volumes of orders placed by any DeFi Limit Order platform, Bogged has become a trusted platform for hundreds of thousands of traders. Fund safety is obviously our highest concern, and we take many serious steps to ensure we the platform and its users remain secure.",
+      "secondAnswer":"",
+      "more": {
+        "text":"Read more about stop-loss security",
+        "link":{
+          "href":"/",
+          "linkText": "here"
+         }
+      }
+    },
+    {
+      "question": "Why didn't my order fill?",
+      "answer": "Failed orders are a rare occurrence, but they can happen due to external factors outside of Bogged's control. You should be able to view the reason the order failed in the “my orders” section. ",
+      "secondAnswer":"",
+      "more": {
+        "text":"If you require help with a stop-loss, please contact us using the chat bubble on this page or reach out to one of our admins on Telegram.",
+        "link":{
+          "href":"/",
+          "linkText": "Click here to view our failed order troubleshooter."
+         }
+      }
+    }
+  ]
+}
