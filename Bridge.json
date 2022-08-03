@@ -1,0 +1,64 @@
+{
+  "bridge":[
+    {
+      "question": "What is the Bogged DeFi Bridge?",
+      "answer": "Bogged Bridge allows users to quickly and affordably move funds between our supported chains.",
+      "secondAnswer":"",
+      "more": {
+        "text":"For instructions on how to use the Bogged Bridge, please see ",
+        "link":{
+          "href":"/",
+          "linkText": "Docs / Academy"
+         }
+      }
+    },
+    {
+      "question": "Why can I only bridge the BOG token?",
+      "answer": "The BOG token is the governance token of the Bogged Ecosystem, and is used for bridging, tool payments and more. Currently, it is only possible to bridge the BOG token, but you can use BogSwap to swap to/from any token you wish, before and after bridging, making Bogged a perfect platform for moving value between blockchains.",
+      "secondAnswer":"",
+      "more": {
+        "text":"For more about the BOG token, ",
+        "link":{
+          "href":"https://www.bogged.finance/token",
+          "linkText": "click here"
+         }
+      }
+    },
+    {
+      "question": "How does the Bogged DeFi Bridge work?",
+      "answer": "When “sending” BOG to another chain, it is burned on the sending chain and minted on the receiving chain, only after multiple security checks and validations. The BOG is sent to the same address that initiated the transaction, but on the receiving chain.",
+      "secondAnswer":"BOG is only minted after several security checks, including waiting for 20 network validations. This makes the bridge resistant to malicious attacks that have afflicted other bridge providers, and provides peace of mind for users of the Bogged platform.",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "Is the Bogged DeFi Bridge safe?",
+      "answer": "At Bogged we take security and safety incredibly seriously. We have rigorously audited the bridge at all levels of execution, and taken steps to ensure that user funds are safe at all times.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    },
+    {
+      "question": "Why have I still not received my funds?",
+      "answer": "Although swapping on Bogged is incredibly reliable, sometimes external network factors outside of the platform's control can cause issues for traders. If you encounter any issues and are unsure why, please snap a screenshot of any error messages and let us know using the chat bubble on this page, or via Telegram.",
+      "secondAnswer":"",
+      "more": {
+        "text":"",
+        "link":{
+          "href":"",
+          "linkText": ""
+         }
+      }
+    }
+  ]
+}
