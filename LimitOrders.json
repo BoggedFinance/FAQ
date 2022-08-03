@@ -1,1 +1,49 @@
-
+{
+  "type":"swap",
+  "questions":[
+    {
+      "question": "What is a Limit Order?",
+      "answer": "A limit order is an order that only executes at the price you want. Limit buys can be used to automatically catch dips and desired entry points, while limit sells can sell the peaks.",
+      "more": {
+        "text":"For more about Limit Orders on Bogged, including examples, ",
+        "link":{
+          "href":"https://www.bogged.finance/academy/limit-orders-for-beginners-what-are-they-and-how-are-they-used-in-bogged-finance",
+          "linkText": "see Academy / Docs"
+         }
+      }
+    },
+    {
+      "question": "How does a Bogged DeFi Limit Order work?",
+      "answer": "When you approve and set a Bogged Limit Order, our systems immediately begin monitoring the price of the token you want to buy/sell. No funds leave your wallet until the target price is reached, which is when Bogged executes the trade from within your wallet.Bogged limit orders work with every token listed on our many supported DEXes and chains.",
+      "more": {
+        "text":"If you require help with a Limit Order, please contact us using the chat bubble on this page or reach out to one of our admins on Telegram.",
+        "link":{
+          "href":"/",
+          "linkText": "Click here to view our failed order troubleshooter"
+         }
+      }
+    },
+    {
+      "question": "Are Bogged Limit Orders safe?",
+      "answer": "With one of the highest volumes of orders placed by any DeFi Limit Order platform, Bogged has become a trusted platform for hundreds of thousands of traders. Fund safety is obviously our highest concern, and we take many serious steps to ensure we the platform and its users remain secure.",
+      "more": {
+        "text":"Read more about Limit Order security",
+        "link":{
+          "href":"/",
+          "linkText": "here"
+         }
+      }
+    },
+    {
+      "question": "Why didn't my order fill?",
+      "answer": "Failed orders are a rare occurrence, but they can happen due to external factors outside of Bogged's control. You should be able to view the reason the order failed in the 'my orders' section.",
+      "more": {
+        "text":"If you require help with a Limit Order, please contact us using the chat bubble on this page or reach out to one of our admins on Telegram.",
+        "link":{
+          "href":"/",
+          "linkText": "Click here to view our failed order troubleshooter"
+         }
+      }
+    }
+  ]
+}
