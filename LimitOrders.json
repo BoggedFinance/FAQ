@@ -1,6 +1,5 @@
 {
-  "type":"limit",
-  "questions":[
+  "limit":[
     {
       "question": "What is a Limit Order?",
       "answer": "A limit order is an order that only executes at the price you want. Limit buys can be used to automatically catch dips and desired entry points, while limit sells can sell the peaks.",
